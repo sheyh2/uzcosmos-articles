@@ -1,0 +1,91 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.pytest_cache/
+db.sqlite3
+*.sqlite3
+
+# Virtualenv
+venv/
+ENV/
+env/
+.venv/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Docker
+*.docker
+docker-compose.override.yml
+.docker/
+docker-compose.yml
+
+# MySQL
+*.log
+*.pid
+*.sock
+*.sql
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Python Distribution
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+parts/
+sdist/
+var/
+*.bak
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Cython
+*.c
+*.cpp
+
+# pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+
+# Coverage reports
+*.lcov
+
+# Pyre type checker
+.pyre/
+
+# Pycharm
+.idea/
+
+# VSCode
+.vscode/
+
+# dotenv environment variables file
+.env
+
+# VS Code directories
+.vscode/
+
+# MacOS Finder settings
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
