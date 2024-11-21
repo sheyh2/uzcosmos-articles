@@ -1,4 +1,4 @@
-# Проект API для UzCosmos
+# Техническое задание от UzCosmos
 
 Этот проект представляет собой API, разработанное с использованием Python и FastAPI для обработки данных с помощью различных сервисов. API поддерживает загрузку изображений, выполнение обработки и возврат координат.
 
@@ -22,7 +22,7 @@
 1. **Клонируйте репозиторий**:
 
     ```bash
-    git clone https://your-repository-url.git
+    git clone git@github.com:sheyh2/uzcosmos-articles.git
     cd your-repository-directory
     ```
 
